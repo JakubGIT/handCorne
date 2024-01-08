@@ -2,7 +2,7 @@
     "lighting": "none",
     "matrix": {
         "rows": 8,
-        "cols": 12
+        "cols": 6
     },
     "layouts": {
         "keymap": [
